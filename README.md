@@ -1,41 +1,38 @@
-# React Ecommerce (Thirz)
+# **React Ecommerce (Thirz)**
 
-Ecommerce Application built on top of react and tailwind css
+A modern ecommerce application built with **React** and styled using **Tailwind CSS**.
 
+### **Live Demo**
+Check out the live preview: [Thirz Ecommerce](https://thirz.vercel.app/)
 
+## **Features**
+- Display of products with details.
+- Product filtering functionality.
+- Shopping cart with add, remove, and view capabilities.
+- Mock checkout page for testing purchase flows.
+- User order management.
 
-## Features
+## **Future Enhancements**
+For upcoming features and planned improvements, visit the [Issues Tab](https://github.com/bikky-kc013/thirz/issues).
 
-- Products Display.
-- Products Filter.
-- Cart Functions.
-- Mock Checkout Page.
-- User orders.
+## **Installation**
 
-## Future additions
+Follow these steps to set up the project:
 
-Check issues tab.
+1. **Clone the repository and install dependencies:**
 
-## Installation
+    ```bash
+    git clone https://github.com/bikky-kc013/thirz.git
+    cd thirz
+    npm install
+    ```
 
-- Step 1: Clone Repository and Install Packages.
+2. **Start the development server:**
 
-```
-git clone https://github.com/bikky-kc013/thirz.git
+    ```bash
+    npm run dev
+    ```
 
-cd thirz
+## **Author**
 
-npm install
-```
-
-
-- Step 3: Start the development server.
-
-```
-npm run dev
-```
-
-
-## Authors
-
-- [Bikky kc](https://github.com/bikky-kc013)
+- **[Bikky Kc](https://github.com/bikky-kc013)**
